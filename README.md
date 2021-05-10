@@ -3,8 +3,8 @@
 Aqui está a lista com todos os projetos que VOCÊS estão construindo nesse challenge de Front End! ⚗️
 
 
-| Projetos dos participantes da Imersão |
-| --- |
+| Pessoa que criou o projeto | Projeto |
+| --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/92Samuel92/SuperTrunfoDia8'/>](https://github.com/92Samuel92/SuperTrunfoDia8) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/92Samuel92/SuperTrunfoDia8'/>](https://github.com/92Samuel92/SuperTrunfoDia8)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/treinamentos-internos/aluradev-projeto-rh'/>](https://github.com/treinamentos-internos/aluradev-projeto-rh) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/treinamentos-internos/aluradev-projeto-rh'/>](https://github.com/treinamentos-internos/aluradev-projeto-rh)
